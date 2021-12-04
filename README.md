@@ -1,4 +1,4 @@
-#timescaledb-backup 
+ # timescaledb-backup 
 
 `timescaledb-backup` is a program for making dumping and restoring a
 [TimescaleDB](//github.com/timescale/timescaledb) database simpler, less error-prone,
